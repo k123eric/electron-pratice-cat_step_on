@@ -2,9 +2,6 @@
 
 ## Electron練習小作品
 
-- 功能完成
-- 可打包成安裝檔
-
 ```bash
 # Clone this repository
 git clone https://github.com/k123eric/electron-pratice-cat_step_on
